@@ -4,6 +4,6 @@ pandas
 numpy
 matplotlib
 scikit-learn
-torch
-statsmodels
+tensorflow
 prophet
+statsmodels
