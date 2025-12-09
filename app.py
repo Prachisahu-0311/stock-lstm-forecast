@@ -16,8 +16,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 
-import torch
-import torch.nn as nn
+
 from statsmodels.tsa.arima.model import ARIMA
 from prophet import Prophet
 
